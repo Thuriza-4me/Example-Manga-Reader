@@ -1,14 +1,14 @@
 const imgCont = document.querySelector('.imgCont');
 
 const imgs =[
-  'image/1.jpg', 
-  'image/2.jpg', 
-  'image/3.jpg', 
-  'image/4.jpg', 
-  'image/5.jpg', 
-  'image/6.jpg', 
-  'image/7.jpg', 
-  'image/8.jpg'
+  '1.jpg', 
+  '2.jpg', 
+  '3.jpg', 
+  '4.jpg', 
+  '5.jpg', 
+  '6.jpg', 
+  '7.jpg', 
+  '8.jpg'
 
 ]
 
